@@ -1,4 +1,7 @@
 import express from 'express'
+import delay from './middlewares/delay.js'
+
+app.use(delay)
 
 const app = express()
 const PORT = 3001
