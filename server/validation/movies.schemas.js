@@ -19,7 +19,10 @@ export const createMovieSchema = z.object({
   duration: z.string().min(1),
   rating: z.string().min(1),
   imdb_rating: z.number().min(0).max(10),
-  genres: z.array(z.string().min(1)).min(1),
+  genres: z.array(z.string().min(1)).min(1).refine(
+    (arr) => new Set(arr).size === arr.length,
+    { message: 'Genres must be unique' }
+  ),
   plot: z.string().min(1),
   director: z.string().min(1),
   written_by: z.string().min(1),
