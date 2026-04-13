@@ -24,7 +24,7 @@ export function MovieCard({ movie }: MovieCardProps) {
         </div>
         <StarRating rating={movie.imdb_rating} />
         <span className="text-sm text-gray-500">{movie.imdb_rating} / 10 · IMDb</span>
-        <WatchlistButton />
+        <WatchlistButton movieId={movie.id} />
       </div>
 
       {/* Right: Details */}
