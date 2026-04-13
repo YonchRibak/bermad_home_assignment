@@ -67,7 +67,7 @@ server/
 ## Design decisions
 
 - **Layered architecture** on the server (controllers → services → repositories) for separation of concerns.
-- **SQLite** via better-sqlite3 instead of a static JSON file — supports proper querying and is easy to set up with no external dependencies.
+- **SQLite** via better-sqlite3 — supports proper querying and is easy to set up with no external dependencies.
 - **Zod** for request validation, keeping invalid data out at the middleware level.
 - **Swagger/OpenAPI** docs so the API is self-documenting and easy to explore.
 - **Rate limiting, CORS, and request logging** (Morgan) on the server for production-readiness.
