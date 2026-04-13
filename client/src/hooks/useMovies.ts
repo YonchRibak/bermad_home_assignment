@@ -11,7 +11,7 @@ export function useMovies(query: string) {
 
   useEffect(() => {
     const controller = new AbortController()
-
+    // debounce search input
     const timeout = setTimeout(async () => {
       setLoading(true)
       setError(null)
@@ -34,8 +34,9 @@ export function useMovies(query: string) {
       } finally {
         setLoading(false)
       }
-    }, query ? 300 : 0)
+    }, query ? 300 : 0) // no debounce when query is empty (initial load)
 
+    // cleanup
     return () => {
       clearTimeout(timeout)
       controller.abort()
