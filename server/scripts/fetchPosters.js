@@ -1,6 +1,7 @@
+import 'dotenv/config'
 import { readFileSync, writeFileSync } from 'fs'
 
-const API_KEY = 'c049afc2f08cf24679b52caa3152fec4'
+const API_KEY = process.env.TMDB_API_KEY
 const movies = JSON.parse(readFileSync(new URL('../movies.json', import.meta.url)))
 
 for (const movie of movies) {
