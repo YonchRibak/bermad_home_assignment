@@ -16,6 +16,6 @@ export interface Movie {
     written_by: string
     studio: string
     box_office: string
-    cast: CastMember[]
+    cast_members: CastMember[]
     poster_url: string | null
 }

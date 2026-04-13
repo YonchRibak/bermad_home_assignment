@@ -67,7 +67,7 @@ export function MovieCard({ movie }: MovieCardProps) {
         <div>
           <h3 className="text-xs font-semibold text-gray-500 uppercase">Cast</h3>
           <div className="flex flex-wrap gap-2 mt-1">
-            {movie.cast.map((member) => (
+            {movie.cast_members.map((member) => (
               <CastChip key={member.name} initials={member.initials} name={member.name} />
             ))}
           </div>
