@@ -14,7 +14,7 @@ A full-stack web app that lets you browse and search through my personal list of
 
 **Client:** React 19, TypeScript, Tailwind CSS, Vite
 
-**Server:** Express.js (Node), serving a static JSON dataset
+**Server:** Express 5, Node.js (ES modules), better-sqlite3, Zod validation, Swagger/OpenAPI docs
 
 Movie posters are pulled from TMDB via a one-time script.
 
@@ -27,10 +27,11 @@ You'll need Node.js installed.
 ```bash
 cd server
 npm install
+npm run seed   # seed the SQLite database
 npm run dev
 ```
 
-Runs on `http://localhost:3001`.
+Runs on `http://localhost:3001`. API docs available at `http://localhost:3001/api-docs`.
 
 **2. Start the client**
 
@@ -47,23 +48,32 @@ Opens on `http://localhost:5173` by default.
 ```
 client/
   src/
-    components/    # MovieCard, SearchBar, WatchlistButton, etc.
+    components/    # MovieCard, SearchBar, WatchlistButton, GenreBadge, etc.
     hooks/         # useMovies (data fetching), useWatchlist (context + localStorage)
     App.tsx        # Main layout and state
     types.ts       # Shared TypeScript interfaces
 
 server/
-  routes/          # Movie endpoints
-  middleware/      # Artificial delay (for testing loading states)
-  movies.json      # The 20 movies
-  scripts/         # TMDB poster fetching script
+  controllers/     # Route handlers
+  services/        # Business logic
+  repositories/    # Database access (better-sqlite3)
+  routes/          # Express route definitions
+  middleware/      # Error handling, validation, artificial delay
+  docs/            # Swagger/OpenAPI spec
+  scripts/         # DB seeding, TMDB poster fetching
+  config.js        # Centralized configuration
 ```
 
 ## Design decisions
 
+- **Layered architecture** on the server (controllers → services → repositories) for separation of concerns.
+- **SQLite** via better-sqlite3 instead of a static JSON file — supports proper querying and is easy to set up with no external dependencies.
+- **Zod** for request validation, keeping invalid data out at the middleware level.
+- **Swagger/OpenAPI** docs so the API is self-documenting and easy to explore.
+- **Rate limiting, CORS, and request logging** (Morgan) on the server for production-readiness.
 - **Debounce + AbortController** in the search hook to avoid race conditions and wasted requests.
 - **React Context** for the watchlist rather than prop drilling or pulling in a state library for something this small.
-- **localStorage** for watchlist persistence — a real app would sync this to a backend, but it felt like the right scope for an assignmment.
+- **localStorage** for watchlist persistence — a real app would sync this to a backend, but it felt like the right scope for an assignment.
 - **Skeleton cards** instead of a spinner because they give better perceived performance and hint at the layout before content loads.
 
 ## Author
