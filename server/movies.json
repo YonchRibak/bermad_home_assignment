@@ -6,18 +6,31 @@
     "duration": "2h 13m",
     "rating": "NR",
     "imdb_rating": 7.6,
-    "genres": ["Drama", "Music", "Romance"],
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
     "plot": "A world-famous conductor returns to his tiny Swedish hometown to recover from a heart attack, and unexpectedly finds himself leading the local church choir — transforming both the villagers and himself in the process.",
     "director": "Kay Pollak",
     "written_by": "Kay Pollak",
     "studio": "Sonet Film",
     "box_office": "$17 million",
     "cast": [
-      { "initials": "MF", "name": "Michael Nyqvist" },
-      { "initials": "FT", "name": "Frida Hallgren" },
-      { "initials": "HL", "name": "Helen Sjöholm" }
+      {
+        "initials": "MF",
+        "name": "Michael Nyqvist"
+      },
+      {
+        "initials": "FT",
+        "name": "Frida Hallgren"
+      },
+      {
+        "initials": "HL",
+        "name": "Helen Sjöholm"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/ygJ6RQQSmXRQLPpUKP9SCdKXSKJ.jpg"
   },
   {
     "id": 2,
@@ -26,18 +39,30 @@
     "duration": "2h 1m",
     "rating": "R",
     "imdb_rating": 7.2,
-    "genres": ["Drama", "Comedy"],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
     "plot": "When the Weston family patriarch disappears, the strong-willed Violet and her three daughters are forced back together under the same Oklahoma roof, unleashing a torrent of long-buried secrets and bitter family dysfunction.",
     "director": "John Wells",
     "written_by": "Tracy Letts",
     "studio": "The Weinstein Company",
     "box_office": "$74 million",
     "cast": [
-      { "initials": "MS", "name": "Meryl Streep" },
-      { "initials": "JR", "name": "Julia Roberts" },
-      { "initials": "BN", "name": "Benedict Cumberbatch" }
+      {
+        "initials": "MS",
+        "name": "Meryl Streep"
+      },
+      {
+        "initials": "JR",
+        "name": "Julia Roberts"
+      },
+      {
+        "initials": "BN",
+        "name": "Benedict Cumberbatch"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/fvjxr77dfxdIOY3lvj0bHP4B5xT.jpg"
   },
   {
     "id": 3,
@@ -46,18 +71,30 @@
     "duration": "1h 58m",
     "rating": "PG-13",
     "imdb_rating": 7.8,
-    "genres": ["Drama", "Romance"],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
     "plot": "In a small Iowa town, Gilbert Grape struggles to hold his dysfunctional family together while caring for his intellectually disabled younger brother Arnie and his morbidly obese mother — until a mysterious young woman passes through and awakens his desire for something more.",
     "director": "Lasse Hallström",
     "written_by": "Peter Hedges",
     "studio": "Paramount Pictures",
     "box_office": "$10 million",
     "cast": [
-      { "initials": "JD", "name": "Johnny Depp" },
-      { "initials": "LD", "name": "Leonardo DiCaprio" },
-      { "initials": "JL", "name": "Juliette Lewis" }
+      {
+        "initials": "JD",
+        "name": "Johnny Depp"
+      },
+      {
+        "initials": "LD",
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "initials": "JL",
+        "name": "Juliette Lewis"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/8FxWgsfDNosewo7H65oE4QkOb7g.jpg"
   },
   {
     "id": 4,
@@ -65,19 +102,32 @@
     "year": 2008,
     "duration": "1h 51m",
     "rating": "R",
-    "imdb_rating": 7.0,
-    "genres": ["Action", "Comedy", "Crime"],
+    "imdb_rating": 7,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
     "plot": "After a process server and his marijuana dealer witness a murder by a corrupt cop and a drug lord, they go on the run, leaving a trail of chaos, car chases, and comedic mayhem across Los Angeles.",
     "director": "David Gordon Green",
     "written_by": "Seth Rogen, Evan Goldberg",
     "studio": "Columbia Pictures",
     "box_office": "$101 million",
     "cast": [
-      { "initials": "SR", "name": "Seth Rogen" },
-      { "initials": "JF", "name": "James Franco" },
-      { "initials": "GB", "name": "Gary Cole" }
+      {
+        "initials": "SR",
+        "name": "Seth Rogen"
+      },
+      {
+        "initials": "JF",
+        "name": "James Franco"
+      },
+      {
+        "initials": "GB",
+        "name": "Gary Cole"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg"
   },
   {
     "id": 5,
@@ -86,18 +136,31 @@
     "duration": "1h 54m",
     "rating": "PG",
     "imdb_rating": 7.3,
-    "genres": ["Adventure", "Comedy", "Drama"],
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
     "plot": "A daydreaming negative assets manager at Life Magazine embarks on a real-world global adventure to track down a missing photograph for the final print issue, discovering courage and wonder he never knew he possessed.",
     "director": "Ben Stiller",
     "written_by": "Steve Conrad",
     "studio": "20th Century Fox",
     "box_office": "$188 million",
     "cast": [
-      { "initials": "BS", "name": "Ben Stiller" },
-      { "initials": "KW", "name": "Kristen Wiig" },
-      { "initials": "SW", "name": "Sean Penn" }
+      {
+        "initials": "BS",
+        "name": "Ben Stiller"
+      },
+      {
+        "initials": "KW",
+        "name": "Kristen Wiig"
+      },
+      {
+        "initials": "SW",
+        "name": "Sean Penn"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg"
   },
   {
     "id": 6,
@@ -106,18 +169,31 @@
     "duration": "1h 39m",
     "rating": "PG-13",
     "imdb_rating": 7.9,
-    "genres": ["Action", "Drama", "History"],
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
     "plot": "A nameless warrior claims to have defeated three assassins plotting to kill the King of Qin, recounting his story in elaborate flashbacks — but the king suspects that the tale conceals a deeper, more dangerous truth.",
     "director": "Zhang Yimou",
     "written_by": "Zhang Yimou, Li Feng, Wang Bin",
     "studio": "Miramax Films",
     "box_office": "$177 million",
     "cast": [
-      { "initials": "JL", "name": "Jet Li" },
-      { "initials": "TL", "name": "Tony Leung" },
-      { "initials": "MZ", "name": "Maggie Cheung" }
+      {
+        "initials": "JL",
+        "name": "Jet Li"
+      },
+      {
+        "initials": "TL",
+        "name": "Tony Leung"
+      },
+      {
+        "initials": "MZ",
+        "name": "Maggie Cheung"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/vxgZto2Cz7ILHAlmRXt50I2brB2.jpg"
   },
   {
     "id": 7,
@@ -125,19 +201,32 @@
     "year": 1991,
     "duration": "2h 24m",
     "rating": "PG",
-    "imdb_rating": 7.0,
-    "genres": ["Adventure", "Comedy", "Fantasy"],
+    "imdb_rating": 7,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
     "plot": "A grown-up Peter Pan, now a workaholic corporate lawyer, must return to Neverland and reclaim his imagination when Captain Hook kidnaps his children — rediscovering the boy he once was with the help of Tinker Bell and the Lost Boys.",
     "director": "Steven Spielberg",
     "written_by": "Jim V. Hart, Malia Scotch Marmo",
     "studio": "TriStar Pictures",
     "box_office": "$300 million",
     "cast": [
-      { "initials": "RW", "name": "Robin Williams" },
-      { "initials": "DH", "name": "Dustin Hoffman" },
-      { "initials": "JR", "name": "Julia Roberts" }
+      {
+        "initials": "RW",
+        "name": "Robin Williams"
+      },
+      {
+        "initials": "DH",
+        "name": "Dustin Hoffman"
+      },
+      {
+        "initials": "JR",
+        "name": "Julia Roberts"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg"
   },
   {
     "id": 8,
@@ -146,18 +235,29 @@
     "duration": "2h 8m",
     "rating": "PG",
     "imdb_rating": 8.1,
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "plot": "At a prestigious New England prep school, an unconventional English teacher inspires his students to seize the day through poetry, free thinking, and a secret literary club — with consequences that will change their lives forever.",
     "director": "Peter Weir",
     "written_by": "Tom Schulman",
     "studio": "Touchstone Pictures",
     "box_office": "$235 million",
     "cast": [
-      { "initials": "RW", "name": "Robin Williams" },
-      { "initials": "EP", "name": "Ethan Hawke" },
-      { "initials": "RL", "name": "Robert Sean Leonard" }
+      {
+        "initials": "RW",
+        "name": "Robin Williams"
+      },
+      {
+        "initials": "EP",
+        "name": "Ethan Hawke"
+      },
+      {
+        "initials": "RL",
+        "name": "Robert Sean Leonard"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg"
   },
   {
     "id": 9,
@@ -165,19 +265,31 @@
     "year": 2010,
     "duration": "1h 47m",
     "rating": "R",
-    "imdb_rating": 7.0,
-    "genres": ["Comedy", "Drama"],
+    "imdb_rating": 7,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
     "plot": "Two teenagers conceived by artificial insemination seek out their biological sperm donor, whose unexpected arrival into their close-knit lesbian family upends relationships and challenges everyone's sense of identity and belonging.",
     "director": "Lisa Cholodenko",
     "written_by": "Lisa Cholodenko, Stuart Blumberg",
     "studio": "Focus Features",
     "box_office": "$34 million",
     "cast": [
-      { "initials": "AB", "name": "Annette Bening" },
-      { "initials": "JM", "name": "Julianne Moore" },
-      { "initials": "MR", "name": "Mark Ruffalo" }
+      {
+        "initials": "AB",
+        "name": "Annette Bening"
+      },
+      {
+        "initials": "JM",
+        "name": "Julianne Moore"
+      },
+      {
+        "initials": "MR",
+        "name": "Mark Ruffalo"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/xQ5XqZc82dDCcGjxY7voRKjhaKQ.jpg"
   },
   {
     "id": 10,
@@ -186,18 +298,31 @@
     "duration": "2h 9m",
     "rating": "R",
     "imdb_rating": 8.1,
-    "genres": ["Drama", "Biography", "Crime"],
+    "genres": [
+      "Drama",
+      "Biography",
+      "Crime"
+    ],
     "plot": "The Boston Globe's investigative Spotlight team uncovers the systematic cover-up of child sexual abuse by Catholic priests in the Boston archdiocese, revealing a scandal that would shake the Church to its foundations.",
     "director": "Tom McCarthy",
     "written_by": "Tom McCarthy, Josh Singer",
     "studio": "Open Road Films",
     "box_office": "$98 million",
     "cast": [
-      { "initials": "MK", "name": "Michael Keaton" },
-      { "initials": "MR", "name": "Mark Ruffalo" },
-      { "initials": "RS", "name": "Rachel McAdams" }
+      {
+        "initials": "MK",
+        "name": "Michael Keaton"
+      },
+      {
+        "initials": "MR",
+        "name": "Mark Ruffalo"
+      },
+      {
+        "initials": "RS",
+        "name": "Rachel McAdams"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/8DPGG400FgaFWaqcv11n8mRd2NG.jpg"
   },
   {
     "id": 11,
@@ -206,18 +331,31 @@
     "duration": "1h 30m",
     "rating": "PG",
     "imdb_rating": 7.2,
-    "genres": ["Animation", "Action", "Adventure"],
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
     "plot": "Po and the Furious Five face a new threat when the peacock Lord Shen plans to use a powerful weapon to conquer China — and Po must confront the mystery of his past to find inner peace and become the true Dragon Warrior.",
     "director": "Jennifer Yuh Nelson",
     "written_by": "Jonathan Aibel, Glenn Berger",
     "studio": "DreamWorks Animation",
     "box_office": "$665 million",
     "cast": [
-      { "initials": "JB", "name": "Jack Black" },
-      { "initials": "AL", "name": "Angelina Jolie" },
-      { "initials": "GH", "name": "Gary Oldman" }
+      {
+        "initials": "JB",
+        "name": "Jack Black"
+      },
+      {
+        "initials": "AL",
+        "name": "Angelina Jolie"
+      },
+      {
+        "initials": "GH",
+        "name": "Gary Oldman"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg"
   },
   {
     "id": 12,
@@ -226,18 +364,31 @@
     "duration": "2h 21m",
     "rating": "PG-13",
     "imdb_rating": 8.1,
-    "genres": ["Biography", "Crime", "Drama"],
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
     "plot": "Before his 21st birthday, con artist Frank Abagnale Jr. successfully impersonates an airline pilot, a doctor, and a lawyer — all while staying one step ahead of a determined FBI agent on his trail.",
     "director": "Steven Spielberg",
     "written_by": "Jeff Nathanson",
     "studio": "DreamWorks Pictures",
     "box_office": "$352 million",
     "cast": [
-      { "initials": "LD", "name": "Leonardo DiCaprio" },
-      { "initials": "TH", "name": "Tom Hanks" },
-      { "initials": "CH", "name": "Christopher Walken" }
+      {
+        "initials": "LD",
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "initials": "TH",
+        "name": "Tom Hanks"
+      },
+      {
+        "initials": "CH",
+        "name": "Christopher Walken"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
   },
   {
     "id": 13,
@@ -246,18 +397,30 @@
     "duration": "1h 58m",
     "rating": "R",
     "imdb_rating": 6.8,
-    "genres": ["Drama", "Romance"],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
     "plot": "A short-order cook fresh out of prison falls for a guarded, world-weary waitress at a New York diner, pursuing her with gentle persistence and raw honesty as they both navigate the fear of letting someone in.",
     "director": "Garry Marshall",
     "written_by": "Terrence McNally",
     "studio": "Paramount Pictures",
     "box_office": "$23 million",
     "cast": [
-      { "initials": "AP", "name": "Al Pacino" },
-      { "initials": "MP", "name": "Michelle Pfeiffer" },
-      { "initials": "HB", "name": "Hector Elizondo" }
+      {
+        "initials": "AP",
+        "name": "Al Pacino"
+      },
+      {
+        "initials": "MP",
+        "name": "Michelle Pfeiffer"
+      },
+      {
+        "initials": "HB",
+        "name": "Hector Elizondo"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/zSOh7hriX4mQNVxhCz1yVY4aykn.jpg"
   },
   {
     "id": 14,
@@ -266,18 +429,31 @@
     "duration": "1h 36m",
     "rating": "R",
     "imdb_rating": 7.6,
-    "genres": ["Comedy", "Drama", "Romance"],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
     "plot": "Over the course of twelve years, Harry and Sally keep crossing paths and debating whether men and women can truly be just friends — until the line between friendship and something deeper begins to blur.",
     "director": "Rob Reiner",
     "written_by": "Nora Ephron",
     "studio": "Columbia Pictures",
     "box_office": "$92 million",
     "cast": [
-      { "initials": "BC", "name": "Billy Crystal" },
-      { "initials": "MR", "name": "Meg Ryan" },
-      { "initials": "CF", "name": "Carrie Fisher" }
+      {
+        "initials": "BC",
+        "name": "Billy Crystal"
+      },
+      {
+        "initials": "MR",
+        "name": "Meg Ryan"
+      },
+      {
+        "initials": "CF",
+        "name": "Carrie Fisher"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg"
   },
   {
     "id": 15,
@@ -286,18 +462,31 @@
     "duration": "1h 36m",
     "rating": "PG-13",
     "imdb_rating": 7.1,
-    "genres": ["Comedy", "Drama", "Romance"],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
     "plot": "Two American women spend a summer in Barcelona, where a charming and passionate painter seduces them both — complicated further by the explosive return of his volatile ex-wife, setting off a whirlwind of desire and self-discovery.",
     "director": "Woody Allen",
     "written_by": "Woody Allen",
     "studio": "The Weinstein Company",
     "box_office": "$96 million",
     "cast": [
-      { "initials": "JB", "name": "Javier Bardem" },
-      { "initials": "SC", "name": "Scarlett Johansson" },
-      { "initials": "PC", "name": "Penélope Cruz" }
+      {
+        "initials": "JB",
+        "name": "Javier Bardem"
+      },
+      {
+        "initials": "SC",
+        "name": "Scarlett Johansson"
+      },
+      {
+        "initials": "PC",
+        "name": "Penélope Cruz"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/ekAIg0GSbbHTH7y1GPgWj0brLTW.jpg"
   },
   {
     "id": 16,
@@ -306,18 +495,31 @@
     "duration": "1h 56m",
     "rating": "PG",
     "imdb_rating": 8.5,
-    "genres": ["Adventure", "Comedy", "Sci-Fi"],
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
     "plot": "Teenager Marty McFly is accidentally sent back to 1955 in a time-traveling DeLorean built by eccentric scientist Doc Brown — and must find a way home while making sure his own parents fall in love so he can exist.",
     "director": "Robert Zemeckis",
     "written_by": "Robert Zemeckis, Bob Gale",
     "studio": "Universal Pictures",
     "box_office": "$388 million",
     "cast": [
-      { "initials": "MJ", "name": "Michael J. Fox" },
-      { "initials": "CL", "name": "Christopher Lloyd" },
-      { "initials": "LT", "name": "Lea Thompson" }
+      {
+        "initials": "MJ",
+        "name": "Michael J. Fox"
+      },
+      {
+        "initials": "CL",
+        "name": "Christopher Lloyd"
+      },
+      {
+        "initials": "LT",
+        "name": "Lea Thompson"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
   },
   {
     "id": 17,
@@ -326,18 +528,31 @@
     "duration": "2h 10m",
     "rating": "PG-13",
     "imdb_rating": 8.5,
-    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
     "plot": "Two rival magicians in Victorian London become consumed by their obsession to outperform each other, sacrificing everything — loyalty, love, and sanity — in pursuit of the ultimate illusion.",
     "director": "Christopher Nolan",
     "written_by": "Christopher Nolan, Jonathan Nolan",
     "studio": "Warner Bros.",
     "box_office": "$109 million",
     "cast": [
-      { "initials": "HC", "name": "Hugh Jackman" },
-      { "initials": "CB", "name": "Christian Bale" },
-      { "initials": "SD", "name": "Scarlett Johansson" }
+      {
+        "initials": "HC",
+        "name": "Hugh Jackman"
+      },
+      {
+        "initials": "CB",
+        "name": "Christian Bale"
+      },
+      {
+        "initials": "SD",
+        "name": "Scarlett Johansson"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg"
   },
   {
     "id": 18,
@@ -346,18 +561,31 @@
     "duration": "1h 52m",
     "rating": "PG-13",
     "imdb_rating": 7.8,
-    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
     "plot": "In a future where genetic engineering determines social class, a man with an 'invalid' genome assumes the identity of a genetically superior person to pursue his dream of space travel — living in constant fear of discovery.",
     "director": "Andrew Niccol",
     "written_by": "Andrew Niccol",
     "studio": "Columbia Pictures",
     "box_office": "$12 million",
     "cast": [
-      { "initials": "EH", "name": "Ethan Hawke" },
-      { "initials": "UW", "name": "Uma Thurman" },
-      { "initials": "JL", "name": "Jude Law" }
+      {
+        "initials": "EH",
+        "name": "Ethan Hawke"
+      },
+      {
+        "initials": "UW",
+        "name": "Uma Thurman"
+      },
+      {
+        "initials": "JL",
+        "name": "Jude Law"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg"
   },
   {
     "id": 19,
@@ -366,18 +594,29 @@
     "duration": "1h 51m",
     "rating": "R",
     "imdb_rating": 7.4,
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "plot": "Told in three chapters, the film follows Chiron, a young Black man growing up in a rough Miami neighborhood, as he navigates identity, sexuality, and belonging — from childhood through adolescence to adulthood.",
     "director": "Barry Jenkins",
     "written_by": "Barry Jenkins",
     "studio": "A24",
     "box_office": "$65 million",
     "cast": [
-      { "initials": "MH", "name": "Mahershala Ali" },
-      { "initials": "NJ", "name": "Naomie Harris" },
-      { "initials": "TR", "name": "Trevante Rhodes" }
+      {
+        "initials": "MH",
+        "name": "Mahershala Ali"
+      },
+      {
+        "initials": "NJ",
+        "name": "Naomie Harris"
+      },
+      {
+        "initials": "TR",
+        "name": "Trevante Rhodes"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg"
   },
   {
     "id": 20,
@@ -386,17 +625,30 @@
     "duration": "1h 45m",
     "rating": "PG",
     "imdb_rating": 6.8,
-    "genres": ["Comedy", "Drama", "Romance"],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
     "plot": "A recently widowed man's young son calls a radio talk show hoping to find his dad a new wife, and his heartfelt plea captivates a Baltimore journalist who becomes convinced — against all logic — that this stranger is her destiny.",
     "director": "Nora Ephron",
     "written_by": "Nora Ephron, David S. Ward",
     "studio": "TriStar Pictures",
     "box_office": "$227 million",
     "cast": [
-      { "initials": "TH", "name": "Tom Hanks" },
-      { "initials": "MR", "name": "Meg Ryan" },
-      { "initials": "BR", "name": "Bill Pullman" }
+      {
+        "initials": "TH",
+        "name": "Tom Hanks"
+      },
+      {
+        "initials": "MR",
+        "name": "Meg Ryan"
+      },
+      {
+        "initials": "BR",
+        "name": "Bill Pullman"
+      }
     ],
-    "poster_url": null
+    "poster_url": "https://image.tmdb.org/t/p/w300/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg"
   }
 ]
