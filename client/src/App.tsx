@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useMovies } from './hooks/useMovies'
 import { SearchBar } from './components/SearchBar'
 import { MovieCard } from './components/MovieCard'
+import { SkeletonCard } from './components/SkeletonCard'
 
 function App() {
   const [query, setQuery] = useState('')
@@ -12,7 +13,7 @@ function App() {
       <div className="max-w-3xl mx-auto flex flex-col gap-6">
         <SearchBar query={query} onQueryChange={setQuery} />
         {loading ? (
-          <p className="text-center text-gray-500">Loading...</p>
+          [...Array(6)].map((_, i) => <SkeletonCard key={i} />)
         ) : (
           movies.map((movie) => (
             <MovieCard key={movie.id} movie={movie} />
